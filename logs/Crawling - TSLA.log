@@ -1,0 +1,55 @@
+INFO [2021-06-07 13:55:00] [Crawling - TSLA]  Begin to crawl Summary data
+INFO [2021-06-07 13:55:01] [Crawling - TSLA]  Crawled Summary data successful
+INFO [2021-06-07 13:55:01] [Crawling - TSLA]  Begin to crawl Statistics data
+INFO [2021-06-07 13:55:02] [Crawling - TSLA]  Crawled Statistics data successful
+INFO [2021-06-07 13:55:02] [Crawling - TSLA]  Begin to crawl Historical data
+INFO [2021-06-07 13:55:03] [Crawling - TSLA]  Crawled Historical data successful
+INFO [2021-06-07 13:55:03] [Crawling - TSLA]  Begin to crawl Profile data
+INFO [2021-06-07 13:55:04] [Crawling - TSLA]  Crawled Profile data successful
+INFO [2021-06-07 13:55:04] [Crawling - TSLA]  Begin to crawl Financials data.
+INFO [2021-06-07 13:56:27] [Crawling - TSLA]  Begin to crawl Summary data
+INFO [2021-06-07 13:56:28] [Crawling - TSLA]  Crawled Summary data successful
+INFO [2021-06-07 13:56:28] [Crawling - TSLA]  Begin to crawl Statistics data
+INFO [2021-06-07 13:56:29] [Crawling - TSLA]  Crawled Statistics data successful
+INFO [2021-06-07 13:56:29] [Crawling - TSLA]  Begin to crawl Historical data
+INFO [2021-06-07 13:56:30] [Crawling - TSLA]  Crawled Historical data successful
+INFO [2021-06-07 13:56:30] [Crawling - TSLA]  Begin to crawl Profile data
+INFO [2021-06-07 13:56:31] [Crawling - TSLA]  Crawled Profile data successful
+INFO [2021-06-07 13:56:31] [Crawling - TSLA]  Begin to crawl Financials data.
+INFO [2021-06-07 13:56:35] [Crawling - TSLA]  Crawled Financials - Income Statement data successful
+INFO [2021-06-07 13:56:35] [Crawling - TSLA]  Crawled Financials - Balance Sheet data successful
+INFO [2021-06-07 13:56:35] [Crawling - TSLA]  Crawled Financials - Cash Flow data successful
+INFO [2021-06-07 13:56:35] [Crawling - TSLA]  Begin to crawl Analysis data
+INFO [2021-06-07 13:56:36] [Crawling - TSLA]  Crawled Analysis data successful
+INFO [2021-06-07 13:56:36] [Crawling - TSLA]  Begin to crawl Options data
+INFO [2021-06-07 13:56:39] [Crawling - TSLA]  Crawled Options Calls data successful
+INFO [2021-06-07 13:56:39] [Crawling - TSLA]  Crawled Options Puts data successful
+INFO [2021-06-07 13:56:39] [Crawling - TSLA]  Begin to crawl Major Holders data
+INFO [2021-06-07 13:56:42] [Crawling - TSLA]  Crawled Major Holders data successful
+INFO [2021-06-07 13:56:42] [Crawling - TSLA]  Crawled Insider Roster data successful
+INFO [2021-06-07 13:56:42] [Crawling - TSLA]  Crawled Insider Transactions data successful
+INFO [2021-06-07 13:56:42] [Crawling - TSLA]  Begin to crawl Sustainability data.
+INFO [2021-06-07 13:56:43] [Crawling - TSLA]  Crawled Sustainability data successful
+INFO [2021-06-07 13:57:32] [Crawling - TSLA]  Begin to crawl Summary data
+INFO [2021-06-07 13:57:33] [Crawling - TSLA]  Crawled Summary data successful
+INFO [2021-06-07 13:57:33] [Crawling - TSLA]  Begin to crawl Statistics data
+INFO [2021-06-07 13:57:34] [Crawling - TSLA]  Crawled Statistics data successful
+INFO [2021-06-07 13:57:34] [Crawling - TSLA]  Begin to crawl Historical data
+INFO [2021-06-07 13:57:35] [Crawling - TSLA]  Crawled Historical data successful
+INFO [2021-06-07 13:57:35] [Crawling - TSLA]  Begin to crawl Profile data
+INFO [2021-06-07 13:57:38] [Crawling - TSLA]  Crawled Profile data successful
+INFO [2021-06-07 13:57:38] [Crawling - TSLA]  Begin to crawl Financials data.
+INFO [2021-06-07 13:57:41] [Crawling - TSLA]  Crawled Financials - Income Statement data successful
+INFO [2021-06-07 13:57:41] [Crawling - TSLA]  Crawled Financials - Balance Sheet data successful
+INFO [2021-06-07 13:57:41] [Crawling - TSLA]  Crawled Financials - Cash Flow data successful
+INFO [2021-06-07 13:57:41] [Crawling - TSLA]  Begin to crawl Analysis data
+INFO [2021-06-07 13:57:42] [Crawling - TSLA]  Crawled Analysis data successful
+INFO [2021-06-07 13:57:42] [Crawling - TSLA]  Begin to crawl Options data
+INFO [2021-06-07 13:57:44] [Crawling - TSLA]  Crawled Options Calls data successful
+INFO [2021-06-07 13:57:44] [Crawling - TSLA]  Crawled Options Puts data successful
+INFO [2021-06-07 13:57:44] [Crawling - TSLA]  Begin to crawl Major Holders data
+INFO [2021-06-07 13:57:47] [Crawling - TSLA]  Crawled Major Holders data successful
+INFO [2021-06-07 13:57:47] [Crawling - TSLA]  Crawled Insider Roster data successful
+INFO [2021-06-07 13:57:47] [Crawling - TSLA]  Crawled Insider Transactions data successful
+INFO [2021-06-07 13:57:47] [Crawling - TSLA]  Begin to crawl Sustainability data.
+INFO [2021-06-07 13:57:49] [Crawling - TSLA]  Crawled Sustainability data successful
